@@ -1,0 +1,88 @@
+const productDetails = [
+    {
+      id: "a1cde",
+      name: "T-Shirts 1",
+      brand: "adidas",
+      price: 78,
+      img: "img/products/f1.jpg",
+    },
+    {
+      id: "s5fe5",
+      name: "T-Shirts 2",
+      brand: "sssss",
+      price: 158,
+      img: "img/products/f2.jpg",
+    },
+    {
+      id: "s58rd",
+      name: "T-Shirts 3",
+      brand: "Nike",
+      price: 190,
+      img: "img/products/f3.jpg",
+    },
+    {
+      id: "gdne6",
+      name: "T-Shirts 4",
+      brand: "Adidas",
+      price: 224,
+      img: "img/products/f4.jpg",
+    },
+    {
+      id: "6she5",
+      name: "T-Shirts 5",
+      brand: "Nike",
+      price: 326,
+      img: "img/products/f5.jpg",
+    },
+    {
+      id: "dj8dy",
+      name: "T-Shirts 6",
+      brand: "Adidas",
+      price: 910,
+      img: "img/products/f6.jpg",
+    },
+    {
+      id: "eeee1",
+      name: "T-Shirts 7",
+      brand: "Adidas",
+      price: 512,
+      img: "img/products/f7.jpg",
+    },
+    {
+      id: "llop4",
+      name: "T-Shirts 8",
+      brand: "Nike",
+      price: 111,
+      img: "img/products/f8.jpg",
+    },
+    {
+      id: "wpls5",
+      name: "T-Shirts 9",
+      brand: "Nike",
+      price: 199,
+      img: "img/products/n1.jpg",
+    },
+    {
+      id: "jdi90",
+      name: "T-Shirts 10",
+      brand: "Adidas",
+      price: 99,
+      img: "img/products/n2.jpg",
+    },
+    {
+      id: "alops",
+      name: "T-Shirts 11",
+      brand: "Nike",
+      price: 410,
+      img: "img/products/n3.jpg",
+    },
+    {
+      id: "mmxn7",
+      name: "T-Shirts 12",
+      brand: "Adidas",
+      price: 110,
+      img: "img/products/n4.jpg",
+    },
+  ];
+  
+  export { productDetails };
